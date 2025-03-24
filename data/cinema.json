@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Making Movies",
+    "author": "Sidney Lumet",
+    "isbn": "9780679752849",
+    "category": "Filmmaking",
+    "published_date": "1995-01-01",
+    "publisher": "Vintage Books",
+    "location": "Section C",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["filmmaking", "director's perspective", "Lumet"]
+  },
+  {
+    "title": "Screenplay: The Foundations of Screenwriting",
+    "author": "Syd Field",
+    "isbn": "9780440582731",
+    "category": "Filmmaking",
+    "published_date": "2005-01-01",
+    "publisher": "Dell Publishing",
+    "location": "Section C",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["screenwriting", "three-act structure", "Field"]
+  },
+  {
+    "title": "In the Blink of an Eye",
+    "author": "Walter Murch",
+    "isbn": "9781879505629",
+    "category": "Filmmaking",
+    "published_date": "2001-01-01",
+    "publisher": "Silman-James Press",
+    "location": "Section C",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["film editing", "Murch", "editing techniques"]
+  },
+  {
+    "title": "Rebel Without a Crew",
+    "author": "Robert Rodriguez",
+    "isbn": "9780452271876",
+    "category": "Filmmaking",
+    "published_date": "1995-01-01",
+    "publisher": "Plume",
+    "location": "Section C",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["independent filmmaking", "Rodriguez", "low-budget films"]
+  },
+  {
+    "title": "The Guerrilla Filmmaker's Handbook",
+    "author": "Chris Jones and Genevieve Jolliffe",
+    "isbn": "9780826497888",
+    "category": "Filmmaking",
+    "published_date": "2006-01-01",
+    "publisher": "Continuum International Publishing",
+    "location": "Section C",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "independent film production",
+      "filmmaking guide",
+      "Jones and Jolliffe"
+    ]
+  },
+  {
+    "title": "Hitchcock/Truffaut",
+    "author": "François Truffaut",
+    "isbn": "9780375711852",
+    "category": "Filmmaking",
+    "published_date": "1984-01-01",
+    "publisher": "Vintage Books",
+    "location": "Section C",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["director interviews", "Hitchcock", "Truffaut"]
+  },
+  {
+    "title": "Directing Actors",
+    "author": "Judith Weston",
+    "isbn": "9780941188103",
+    "category": "Filmmaking",
+    "published_date": "1996-01-01",
+    "publisher": "Michael Wiese Productions",
+    "location": "Section C",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["directing actors", "filmmaking techniques", "Weston"]
+  },
+  {
+    "title": "Cinematography: Theory and Practice",
+    "author": "Blain Brown",
+    "isbn": "9780240812248",
+    "category": "Filmmaking",
+    "published_date": "2008-01-01",
+    "publisher": "Focal Press",
+    "location": "Section C",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["cinematography", "film theory", "Brown"]
+  },
+  {
+    "title": "The Filmmaker's Handbook",
+    "author": "Steven Ascher and Edward Pincus",
+    "isbn": "9780452295261",
+    "category": "Filmmaking",
+    "published_date": "2012-01-01",
+    "publisher": "Plume",
+    "location": "Section C",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "filmmaking guide",
+      "production techniques",
+      "Ascher and Pincus"
+    ]
+  },
+  {
+    "title": "On Directing Film",
+    "author": "David Mamet",
+    "isbn": "9780393331378",
+    "category": "Filmmaking",
+    "published_date": "2008-01-01",
+    "publisher": "W.W. Norton & Company",
+    "location": "Section C",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["directing", "film theory", "Mamet"]
+  }
+]

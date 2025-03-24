@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Business Adventures",
+    "author": "John Brooks",
+    "isbn": "9781442106479",
+    "category": "Business",
+    "published_date": "2010-07-27",
+    "publisher": "Open Road Media",
+    "location": "Section B",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["business stories", "management lessons", "corporate history"]
+  },
+  {
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "isbn": "9780307887894",
+    "category": "Business",
+    "published_date": "2011-09-13",
+    "publisher": "Crown Business",
+    "location": "Section B",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "startup methodology",
+      "business innovation",
+      "lean principles"
+    ]
+  },
+  {
+    "title": "Good to Great",
+    "author": "Jim Collins",
+    "isbn": "9780066620992",
+    "category": "Business",
+    "published_date": "2001-10-01",
+    "publisher": "HarperBusiness",
+    "location": "Section B",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["business excellence", "company transformation", "leadership"]
+  },
+  {
+    "title": "The Hard Thing About Hard Things",
+    "author": "Ben Horowitz",
+    "isbn": "9780062273208",
+    "category": "Business",
+    "published_date": "2014-03-04",
+    "publisher": "HarperBusiness",
+    "location": "Section B",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["entrepreneurship", "business challenges", "leadership"]
+  },
+  {
+    "title": "Start with Why",
+    "author": "Simon Sinek",
+    "isbn": "9781591846448",
+    "category": "Business",
+    "published_date": "2009-09-15",
+    "publisher": "Portfolio",
+    "location": "Section B",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "leadership",
+      "purpose-driven business",
+      "organizational culture"
+    ]
+  },
+  {
+    "title": "Principles: Life and Work",
+    "author": "Ray Dalio",
+    "isbn": "9781501124020",
+    "category": "Business",
+    "published_date": "2017-09-19",
+    "publisher": "Simon & Schuster",
+    "location": "Section B",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["business principles", "leadership", "decision making"]
+  },
+  {
+    "title": "The Innovator's Dilemma",
+    "author": "Clayton M. Christensen",
+    "isbn": "9781633691780",
+    "category": "Business",
+    "published_date": "1997-06-09",
+    "publisher": "Harvard Business Review Press",
+    "location": "Section B",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["innovation", "disruptive technology", "business strategy"]
+  },
+  {
+    "title": "The Art of Strategy",
+    "author": "Avinash K. Dixit and Barry J. Nalebuff",
+    "isbn": "9780393333818",
+    "category": "Business",
+    "published_date": "2008-03-17",
+    "publisher": "W.W. Norton & Company",
+    "location": "Section B",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["game theory", "business strategy", "decision making"]
+  },
+  {
+    "title": "Measure What Matters",
+    "author": "John Doerr",
+    "isbn": "9780525536224",
+    "category": "Business",
+    "published_date": "2018-05-15",
+    "publisher": "Portfolio",
+    "location": "Section B",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["OKRs", "business performance", "goal setting"]
+  },
+  {
+    "title": "The Everything Store",
+    "author": "Brad Stone",
+    "isbn": "9780316334822",
+    "category": "Business",
+    "published_date": "2013-10-15",
+    "publisher": "Little, Brown and Company",
+    "location": "Section B",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["Amazon", "business growth", "entrepreneurship"]
+  }
+]

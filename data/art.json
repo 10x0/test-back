@@ -1,0 +1,110 @@
+[
+  {
+    "title": "The Story of Art",
+    "author": "E.H. Gombrich",
+    "isbn": "9780714832470",
+    "category": "Art",
+    "published_date": "1950-01-01",
+    "publisher": "Phaidon Press",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["art history", "visual arts", "Gombrich"]
+  },
+  {
+    "title": "Ways of Seeing",
+    "author": "John Berger",
+    "isbn": "9780141035796",
+    "category": "Art",
+    "published_date": "1972-01-01",
+    "publisher": "Penguin Books",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["art criticism", "visual perception", "Berger"]
+  },
+  {
+    "title": "Art Through the Ages",
+    "author": "Helen Gardner",
+    "isbn": "9780155037586",
+    "category": "Art",
+    "published_date": "1986-01-01",
+    "publisher": "Harcourt Brace Jovanovich",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["art history", "global art", "Gardner"]
+  },
+  {
+    "title": "A World History of Art",
+    "author": "Hugh Honour and John Fleming",
+    "isbn": "9780500203923",
+    "category": "Art",
+    "published_date": "2005-01-01",
+    "publisher": "Thames & Hudson",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["global art history", "Honour", "Fleming"]
+  },
+  {
+    "title": "The Shock of the New",
+    "author": "Robert Hughes",
+    "isbn": "9780394724346",
+    "category": "Art",
+    "published_date": "1980-01-01",
+    "publisher": "Alfred A. Knopf",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["modern art", "art movements", "Hughes"]
+  },
+  {
+    "title": "The Art Book",
+    "author": "Phaidon Press",
+    "isbn": "9780714833668",
+    "category": "Art",
+    "published_date": "1997-01-01",
+    "publisher": "Phaidon Press",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["art reference", "visual encyclopedia", "Phaidon"]
+  },
+  {
+    "title": "Is Art History? Selected Writings",
+    "author": "Svetlana Alpers",
+    "isbn": "9780691155086",
+    "category": "Art",
+    "published_date": "2010-01-01",
+    "publisher": "Princeton University Press",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["art theory", "visual culture", "Alpers"]
+  },
+  {
+    "title": "The Alienation Effect",
+    "author": "Owen Hatherley",
+    "isbn": "9781783962433",
+    "category": "Art",
+    "published_date": "2025-03-19",
+    "publisher": "Elliott & Thompson",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["modern British art", "émigrés", "Hatherley"]
+  },
+  {
+    "title": "Turner & Constable: Art, Life, Landscape",
+    "author": "Nicola Moorby",
+    "isbn": "9781781300922",
+    "category": "Art",
+    "published_date": "2025-03-20",
+    "publisher": "Unicorn Publishing Group",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["British landscape painting", "Turner", "Constable"]
+  }
+]

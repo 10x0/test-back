@@ -1,0 +1,118 @@
+[
+  {
+    "title": "This Is Your Brain on Music",
+    "author": "Daniel J. Levitin",
+    "isbn": "9780452295294",
+    "category": "Music",
+    "published_date": "2007-08-07",
+    "publisher": "Plume",
+    "location": "Section D",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "music neuroscience",
+      "cognitive psychology",
+      "brain and music"
+    ]
+  },
+  {
+    "title": "Musicophilia: Tales of Music and the Brain",
+    "author": "Oliver Sacks",
+    "isbn": "9781400040818",
+    "category": "Music",
+    "published_date": "2007-10-02",
+    "publisher": "Knopf",
+    "location": "Section D",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "music and neuroscience",
+      "neurological disorders",
+      "music therapy"
+    ]
+  },
+  {
+    "title": "John & Paul: A Love Story in Songs",
+    "author": "Ian Leslie",
+    "isbn": "9781788160620",
+    "category": "Music",
+    "published_date": "2025-03-05",
+    "publisher": "Profile Books",
+    "location": "Section D",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["The Beatles", "Lennon and McCartney", "music history"]
+  },
+  {
+    "title": "Instrumental: A Memoir of Madness, Medication, and Music",
+    "author": "James Rhodes",
+    "isbn": "9781250158333",
+    "category": "Music",
+    "published_date": "2020-03-10",
+    "publisher": "St. Martin's Press",
+    "location": "Section D",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["music memoir", "piano", "mental health"]
+  },
+  {
+    "title": "The Collection: Kirk Hammett",
+    "author": "Chris Vinnicombe",
+    "isbn": "9781733776704",
+    "category": "Music",
+    "published_date": "2025-03-22",
+    "publisher": "Gibson Publishing",
+    "location": "Section D",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["guitar collection", "Kirk Hammett", "Metallica"]
+  },
+  {
+    "title": "Fangirls: Scenes from Modern Music Culture",
+    "author": "Hannah Ewens",
+    "isbn": "9781788160620",
+    "category": "Music",
+    "published_date": "2020-03-05",
+    "publisher": "Profile Books",
+    "location": "Section D",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["music fandom", "teenage girls", "pop culture"]
+  },
+  {
+    "title": "Daisy Jones & The Six",
+    "author": "Taylor Jenkins Reid",
+    "isbn": "9781524798628",
+    "category": "Music",
+    "published_date": "2019-03-05",
+    "publisher": "Ballantine Books",
+    "location": "Section D",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["fiction", "rock band", "1970s music scene"]
+  },
+  {
+    "title": "How Music Got Free",
+    "author": "Stephen Witt",
+    "isbn": "9781468309980",
+    "category": "Music",
+    "published_date": "2015-05-05",
+    "publisher": "Flatiron Books",
+    "location": "Section D",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["music industry", "MP3 revolution", "digital piracy"]
+  },
+  {
+    "title": "Future Days: Krautrock and the Building of Modern Germany",
+    "author": "David Stubbs",
+    "isbn": "9781612195005",
+    "category": "Music",
+    "published_date": "2014-09-09",
+    "publisher": "Melville House",
+    "location": "Section D",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["Krautrock", "German music history", "experimental rock"]
+  }
+]

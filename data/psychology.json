@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "isbn": "9780374275631",
+    "category": "Psychology",
+    "published_date": "2011-10-25",
+    "publisher": "Farrar, Straus and Giroux",
+    "location": "Section D",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["cognitive biases", "decision making", "behavioral economics"]
+  },
+  {
+    "title": "The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom",
+    "author": "Jonathan Haidt",
+    "isbn": "9780465022038",
+    "category": "Psychology",
+    "published_date": "2006-01-01",
+    "publisher": "Basic Books",
+    "location": "Section D",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["positive psychology", "well-being", "ancient philosophy"]
+  },
+  {
+    "title": "Influence: The Psychology of Persuasion",
+    "author": "Robert B. Cialdini",
+    "isbn": "9780061241895",
+    "category": "Psychology",
+    "published_date": "2006-07-18",
+    "publisher": "Harper Business",
+    "location": "Section D",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["persuasion", "marketing", "social influence"]
+  },
+  {
+    "title": "Predictably Irrational: The Hidden Forces That Shape Our Decisions",
+    "author": "Dan Ariely",
+    "isbn": "9780061353239",
+    "category": "Psychology",
+    "published_date": "2008-02-26",
+    "publisher": "Harper",
+    "location": "Section D",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "behavioral economics",
+      "irrational behavior",
+      "decision making"
+    ]
+  },
+  {
+    "title": "The Psychopath Test: A Journey Through the Madness Industry",
+    "author": "Jon Ronson",
+    "isbn": "9781451621747",
+    "category": "Psychology",
+    "published_date": "2011-05-17",
+    "publisher": "Riverhead Books",
+    "location": "Section D",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["psychopathy", "mental health", "psychological assessment"]
+  },
+  {
+    "title": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "isbn": "9780807014295",
+    "category": "Psychology",
+    "published_date": "2006-01-01",
+    "publisher": "Beacon Press",
+    "location": "Section D",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["existential psychology", "logotherapy", "meaning of life"]
+  },
+  {
+    "title": "The Confidence Game: Why We Fall for It... Every Time",
+    "author": "Maria Konnikova",
+    "isbn": "9781594206365",
+    "category": "Psychology",
+    "published_date": "2016-02-16",
+    "publisher": "Viking",
+    "location": "Section D",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["con artists", "deception", "human behavior"]
+  },
+  {
+    "title": "Behave: The Biology of Humans at Our Best and Worst",
+    "author": "Robert M. Sapolsky",
+    "isbn": "9780143110910",
+    "category": "Psychology",
+    "published_date": "2017-05-02",
+    "publisher": "Penguin Press",
+    "location": "Section D",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["human behavior", "neuroscience", "biology"]
+  },
+  {
+    "title": "The Social Animal",
+    "author": "Elliot Aronson",
+    "isbn": "9781429242268",
+    "category": "Psychology",
+    "published_date": "2010-01-01",
+    "publisher": "Worth Publishers",
+    "location": "Section D",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "social psychology",
+      "human behavior",
+      "interpersonal relationships"
+    ]
+  },
+  {
+    "title": "Stumbling on Happiness",
+    "author": "Dan Gilbert",
+    "isbn": "9781400077427",
+    "category": "Psychology",
+    "published_date": "2006-01-01",
+    "publisher": "Vintage",
+    "location": "Section D",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["happiness", "human behavior", "psychological science"]
+  }
+]

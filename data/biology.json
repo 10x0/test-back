@@ -1,0 +1,134 @@
+[
+  {
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "isbn": "9780199291151",
+    "category": "Biology",
+    "published_date": "1976-01-01",
+    "publisher": "Oxford University Press",
+    "location": "Section C",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "evolutionary biology",
+      "gene-centered view",
+      "natural selection"
+    ]
+  },
+  {
+    "title": "The Origin of Species",
+    "author": "Charles Darwin",
+    "isbn": "9780140439129",
+    "category": "Biology",
+    "published_date": "1859-11-24",
+    "publisher": "Penguin Classics",
+    "location": "Section C",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["evolution", "natural selection", "species development"]
+  },
+  {
+    "title": "The Gene: An Intimate History",
+    "author": "Siddhartha Mukherjee",
+    "isbn": "9781476733524",
+    "category": "Biology",
+    "published_date": "2016-05-17",
+    "publisher": "Scribner",
+    "location": "Section C",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["genetics", "family history", "scientific narrative"]
+  },
+  {
+    "title": "Behave: The Biology of Humans at Our Best and Worst",
+    "author": "Robert M. Sapolsky",
+    "isbn": "9780143110910",
+    "category": "Biology",
+    "published_date": "2017-05-02",
+    "publisher": "Penguin Press",
+    "location": "Section C",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["human behavior", "neuroscience", "psychology"]
+  },
+  {
+    "title": "The Sixth Extinction: An Unnatural History",
+    "author": "Elizabeth Kolbert",
+    "isbn": "9780805092998",
+    "category": "Biology",
+    "published_date": "2014-02-11",
+    "publisher": "Henry Holt and Co.",
+    "location": "Section C",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["mass extinction", "environmental science", "biodiversity"]
+  },
+  {
+    "title": "The Beak of the Finch: A Story of Evolution in Our Time",
+    "author": "Jonathan Weiner",
+    "isbn": "9780679774025",
+    "category": "Biology",
+    "published_date": "1994-05-03",
+    "publisher": "Vintage Books",
+    "location": "Section C",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "evolutionary biology",
+      "Galápagos finches",
+      "natural selection"
+    ]
+  },
+  {
+    "title": "The Immortal Life of Henrietta Lacks",
+    "author": "Rebecca Skloot",
+    "isbn": "9781400052189",
+    "category": "Biology",
+    "published_date": "2010-02-02",
+    "publisher": "Crown Publishing Group",
+    "location": "Section C",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["cell biology", "HeLa cells", "medical ethics"]
+  },
+  {
+    "title": "The Machinery of Life",
+    "author": "David S. Goodsell",
+    "isbn": "9780387984173",
+    "category": "Biology",
+    "published_date": "2009-04-13",
+    "publisher": "Springer",
+    "location": "Section C",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "cellular biology",
+      "molecular machines",
+      "biomolecular structures"
+    ]
+  },
+  {
+    "title": "The World Is Blue: How Our Fate and the Ocean's Are One",
+    "author": "Sylvia A. Earle",
+    "isbn": "9780061711291",
+    "category": "Biology",
+    "published_date": "2009-04-21",
+    "publisher": "HarperCollins",
+    "location": "Section C",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["marine biology", "ocean conservation", "environmentalism"]
+  },
+  {
+    "title": "The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race",
+    "author": "Walter Isaacson",
+    "isbn": "9781982115852",
+    "category": "Biology",
+    "published_date": "2021-03-09",
+    "publisher": "Simon & Schuster",
+    "location": "Section C",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["gene editing", "CRISPR technology", "biotechnology"]
+  }
+]

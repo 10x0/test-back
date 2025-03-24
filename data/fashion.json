@@ -1,0 +1,126 @@
+[
+  {
+    "title": "The Berg Encyclopedia of World Dress and Fashion",
+    "author": "Joanne Eicher (Editor)",
+    "isbn": "9781847881045",
+    "category": "Fashion",
+    "published_date": "2010-01-01",
+    "publisher": "Berg Publishers",
+    "location": "Section F",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["global fashion history", "cultural dress", "encyclopedia"]
+  },
+  {
+    "title": "Fashion Design Reference and Specification Book",
+    "author": "Jay Calderin, Laura Volpintesta",
+    "isbn": "9781610587877",
+    "category": "Fashion",
+    "published_date": "2013-01-01",
+    "publisher": "Quarry Books",
+    "location": "Section F",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["fashion design", "specifications", "reference book"]
+  },
+  {
+    "title": "The Fashion Design Course",
+    "author": "Steven Faerm",
+    "isbn": "9781780675726",
+    "category": "Fashion",
+    "published_date": "2015-01-01",
+    "publisher": "Laurence King Publishing",
+    "location": "Section F",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "fashion design course",
+      "design principles",
+      "fashion education"
+    ]
+  },
+  {
+    "title": "Patternmaking for Fashion Design",
+    "author": "Helen Joseph Armstrong",
+    "isbn": "9780134425727",
+    "category": "Fashion",
+    "published_date": "2016-01-01",
+    "publisher": "Pearson",
+    "location": "Section F",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["patternmaking", "fashion design", "sewing techniques"]
+  },
+  {
+    "title": "The Fashion Designer's Textile Directory",
+    "author": "Gail Baugh",
+    "isbn": "9781780672763",
+    "category": "Fashion",
+    "published_date": "2014-01-01",
+    "publisher": "Laurence King Publishing",
+    "location": "Section F",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["textile directory", "fashion materials", "fabric guide"]
+  },
+  {
+    "title": "Fashion: A Philosophy",
+    "author": "Lars Svendsen",
+    "isbn": "9781851687045",
+    "category": "Fashion",
+    "published_date": "2006-01-01",
+    "publisher": "Oneworld Publications",
+    "location": "Section F",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["fashion philosophy", "cultural studies", "Svendsen"]
+  },
+  {
+    "title": "Denim: Fashion's Frontier",
+    "author": "Emma McClendon",
+    "isbn": "9780878468366",
+    "category": "Fashion",
+    "published_date": "2016-01-01",
+    "publisher": "Museum of Fine Arts, Boston",
+    "location": "Section F",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["denim history", "fashion studies", "McClendon"]
+  },
+  {
+    "title": "Vivienne Westwood: A London Fashion",
+    "author": "Museum of London",
+    "isbn": "9781904994504",
+    "category": "Fashion",
+    "published_date": "2004-01-01",
+    "publisher": "Museum of London",
+    "location": "Section F",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["Vivienne Westwood", "London fashion", "designer biography"]
+  },
+  {
+    "title": "The Art of Manipulating Fabric",
+    "author": "Colette Wolff",
+    "isbn": "9780935278490",
+    "category": "Fashion",
+    "published_date": "1996-01-01",
+    "publisher": "Sewing Patterns Co.",
+    "location": "Section F",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["fabric manipulation", "textile techniques", "Wolff"]
+  },
+  {
+    "title": "Eco-Chic: The Fashion Paradox",
+    "author": "Sandy Black",
+    "isbn": "9781856696242",
+    "category": "Fashion",
+    "published_date": "2012-01-01",
+    "publisher": "Laurence King Publishing",
+    "location": "Section F",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["sustainable fashion", "eco-friendly design", "Black"]
+  }
+]

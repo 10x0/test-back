@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Accounting Made Simple",
+    "author": "Mike Piper",
+    "isbn": "9780981454225",
+    "category": "Accounting",
+    "published_date": "2008-01-01",
+    "publisher": "Simple Subjects",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["accounting fundamentals", "financial statements", "GAAP"]
+  },
+  {
+    "title": "The Accounting Game: Basic Accounting Fresh from the Lemonade Stand",
+    "author": "Darrell Mullis and Judith Orloff",
+    "isbn": "9781888032038",
+    "category": "Accounting",
+    "published_date": "1998-01-01",
+    "publisher": "Accounting Game Publishing",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "accounting basics",
+      "financial literacy",
+      "lemonade stand simulation"
+    ]
+  },
+  {
+    "title": "Intermediate Accounting",
+    "author": "Donald E. Kieso, Jerry J. Weygandt, and Terry D. Warfield",
+    "isbn": "9781119503692",
+    "category": "Accounting",
+    "published_date": "2019-01-01",
+    "publisher": "Wiley",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["financial accounting", "GAAP", "advanced accounting topics"]
+  },
+  {
+    "title": "Financial Statements: A Step-by-Step Guide to Understanding and Creating Financial Reports",
+    "author": "Thomas Ittelson",
+    "isbn": "9781402276893",
+    "category": "Accounting",
+    "published_date": "2013-01-01",
+    "publisher": "FT Press",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["financial reporting", "balance sheet", "income statement"]
+  },
+  {
+    "title": "Accounting for Small Business: The Most Complete and Updated Financial Accounting Guide for Small Companies",
+    "author": "Martin J. Kallman",
+    "isbn": "9780991381609",
+    "category": "Accounting",
+    "published_date": "2014-01-01",
+    "publisher": "Kallman Publishing",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "small business accounting",
+      "financial management",
+      "bookkeeping"
+    ]
+  },
+  {
+    "title": "Wiley GAAP 2024",
+    "author": "Joanne M. Flood",
+    "isbn": "9781119609608",
+    "category": "Accounting",
+    "published_date": "2023-11-17",
+    "publisher": "Wiley",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "GAAP standards",
+      "accounting principles",
+      "financial reporting"
+    ]
+  },
+  {
+    "title": "Profit First",
+    "author": "Mike Michalowicz",
+    "isbn": "9781939263029",
+    "category": "Accounting",
+    "published_date": "2017-01-01",
+    "publisher": "Mike Michalowicz",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["profitability", "business finance", "cash flow management"]
+  },
+  {
+    "title": "Tax-Free Wealth",
+    "author": "Tom Wheelwright CPA",
+    "isbn": "9781937832056",
+    "category": "Accounting",
+    "published_date": "2012-01-01",
+    "publisher": "WealthAbility",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["tax planning", "wealth building", "financial strategies"]
+  },
+  {
+    "title": "The Accounting Handbook",
+    "author": "Jae K. Shim, Joel G. Siegel, Nick Dauber, and Anique Qureshi",
+    "isbn": "9780764166570",
+    "category": "Accounting",
+    "published_date": "2014-11-01",
+    "publisher": "Barron's Educational Series",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "accounting reference",
+      "financial management",
+      "business accounting"
+    ]
+  },
+  {
+    "title": "Financial Intelligence",
+    "author": "Karen Berman and Joe Knight",
+    "isbn": "9781422107325",
+    "category": "Accounting",
+    "published_date": "2006-01-01",
+    "publisher": "Harvard Business Review Press",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["financial analysis", "business finance", "decision making"]
+  }
+]

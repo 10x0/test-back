@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Prisoners of Geography: Ten Maps That Tell You Everything You Need to Know About Global Politics",
+    "author": "Tim Marshall",
+    "isbn": "9781783962433",
+    "category": "Geography",
+    "published_date": "2015-04-23",
+    "publisher": "Elliott & Thompson",
+    "location": "Section G",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["geopolitics", "maps", "global politics"]
+  },
+  {
+    "title": "Guns, Germs, and Steel: The Fates of Human Societies",
+    "author": "Jared Diamond",
+    "isbn": "9780393354324",
+    "category": "Geography",
+    "published_date": "2017-02-07",
+    "publisher": "W. W. Norton & Company",
+    "location": "Section G",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["human societies", "environmental history", "geography"]
+  },
+  {
+    "title": "The Map That Changed the World: William Smith and the Birth of Modern Geology",
+    "author": "Simon Winchester",
+    "isbn": "9780060570821",
+    "category": "Geography",
+    "published_date": "2001-05-15",
+    "publisher": "HarperCollins",
+    "location": "Section G",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["geology", "mapmaking", "William Smith"]
+  },
+  {
+    "title": "Underland: A Deep Time Journey",
+    "author": "Robert Macfarlane",
+    "isbn": "9780393541291",
+    "category": "Geography",
+    "published_date": "2020-02-20",
+    "publisher": "W. W. Norton & Company",
+    "location": "Section G",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "underground exploration",
+      "natural history",
+      "environmental writing"
+    ]
+  },
+  {
+    "title": "An Atlas of Countries That Don't Exist: A Compendium of Fifty Unrecognized and Largely Unnoticed States",
+    "author": "Nick Middleton",
+    "isbn": "9780393337112",
+    "category": "Geography",
+    "published_date": "2013-09-24",
+    "publisher": "W. W. Norton & Company",
+    "location": "Section G",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["unrecognized countries", "geopolitics", "cartography"]
+  },
+  {
+    "title": "The Power of Geography: Ten Maps That Reveal the Future of Our World",
+    "author": "Tim Marshall",
+    "isbn": "9781783965441",
+    "category": "Geography",
+    "published_date": "2021-09-02",
+    "publisher": "Elliott & Thompson",
+    "location": "Section G",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["geopolitics", "maps", "future predictions"]
+  },
+  {
+    "title": "The Geography of Bliss: One Grump's Search for the Happiest Places in the World",
+    "author": "Eric Weiner",
+    "isbn": "9780446698895",
+    "category": "Geography",
+    "published_date": "2008-05-06",
+    "publisher": "Grand Central Publishing",
+    "location": "Section G",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["happiness", "travel writing", "cultural geography"]
+  },
+  {
+    "title": "Maphead: Charting the Wide, Weird World of Geography Wonks",
+    "author": "Ken Jennings",
+    "isbn": "9781439176344",
+    "category": "Geography",
+    "published_date": "2011-05-10",
+    "publisher": "Simon & Schuster",
+    "location": "Section G",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["maps", "geography enthusiasts", "cartography"]
+  },
+  {
+    "title": "Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time",
+    "author": "Dava Sobel",
+    "isbn": "9780802715296",
+    "category": "Geography",
+    "published_date": "1995-05-01",
+    "publisher": "Walker & Company",
+    "location": "Section G",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "longitude problem",
+      "navigation history",
+      "scientific discovery"
+    ]
+  }
+]

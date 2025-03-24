@@ -1,0 +1,134 @@
+[
+  {
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "isbn": "9780857197689",
+    "category": "Finance",
+    "published_date": "2020-09-15",
+    "publisher": "The Financial Times Ltd",
+    "location": "Section F",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "behavioral finance",
+      "money management",
+      "financial decisions"
+    ]
+  },
+  {
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "isbn": "9781612680194",
+    "category": "Finance",
+    "published_date": "2017-01-01",
+    "publisher": "Rich Dad Advisors",
+    "location": "Section F",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["financial literacy", "investing", "personal finance"]
+  },
+  {
+    "title": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "isbn": "9780060555665",
+    "category": "Finance",
+    "published_date": "2006-02-21",
+    "publisher": "HarperBusiness",
+    "location": "Section F",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["value investing", "stock market", "investment strategies"]
+  },
+  {
+    "title": "The Simple Path to Wealth",
+    "author": "J.L. Collins",
+    "isbn": "9781533667922",
+    "category": "Finance",
+    "published_date": "2016-06-30",
+    "publisher": "CreateSpace Independent Publishing Platform",
+    "location": "Section F",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["financial independence", "index investing", "wealth building"]
+  },
+  {
+    "title": "Financial Freedom",
+    "author": "Grant Sabatier",
+    "isbn": "9780525534596",
+    "category": "Finance",
+    "published_date": "2019-05-14",
+    "publisher": "Penguin Life",
+    "location": "Section F",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "personal finance",
+      "financial independence",
+      "money management"
+    ]
+  },
+  {
+    "title": "The Millionaire Next Door",
+    "author": "Thomas J. Stanley and William D. Danko",
+    "isbn": "9781589795471",
+    "category": "Finance",
+    "published_date": "2000-09-05",
+    "publisher": "Taylor Trade Publishing",
+    "location": "Section F",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["wealth accumulation", "frugality", "financial habits"]
+  },
+  {
+    "title": "Your Score: An Insider's Secrets to Understanding, Controlling, and Protecting Your Credit Score",
+    "author": "Anthony Davenport",
+    "isbn": "9781402288328",
+    "category": "Finance",
+    "published_date": "2013-04-02",
+    "publisher": "Sourcebooks",
+    "location": "Section F",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["credit score", "financial health", "personal finance"]
+  },
+  {
+    "title": "The Total Money Makeover",
+    "author": "Dave Ramsey",
+    "isbn": "9781595555274",
+    "category": "Finance",
+    "published_date": "2013-10-15",
+    "publisher": "Thomas Nelson",
+    "location": "Section F",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["debt management", "budgeting", "financial planning"]
+  },
+  {
+    "title": "Financial Freedom: A Proven Path to All the Money You Will Ever Need",
+    "author": "Grant Sabatier",
+    "isbn": "9780525534596",
+    "category": "Finance",
+    "published_date": "2019-05-14",
+    "publisher": "Penguin Life",
+    "location": "Section F",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "financial independence",
+      "wealth building",
+      "personal finance"
+    ]
+  },
+  {
+    "title": "The Barefoot Investor: The Only Money Guide You'll Ever Need",
+    "author": "Scott Pape",
+    "isbn": "9781925483848",
+    "category": "Finance",
+    "published_date": "2017-03-01",
+    "publisher": "John Wiley & Sons",
+    "location": "Section F",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["money management", "financial planning", "budgeting"]
+  }
+]

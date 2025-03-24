@@ -1,0 +1,138 @@
+[
+  {
+    "title": "A People's History of the United States",
+    "author": "Howard Zinn",
+    "isbn": "9780062397348",
+    "category": "History",
+    "published_date": "2015-09-08",
+    "publisher": "Harper Perennial Modern Classics",
+    "location": "Section H",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["American history", "social movements", "historical narrative"]
+  },
+  {
+    "title": "The 48 Laws of Power",
+    "author": "Robert Greene",
+    "isbn": "9780140280197",
+    "category": "History",
+    "published_date": "2000-09-01",
+    "publisher": "Penguin Books",
+    "location": "Section H",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "power dynamics",
+      "historical strategies",
+      "political influence"
+    ]
+  },
+  {
+    "title": "Say Nothing: A True Story of Murder and Memory in Northern Ireland",
+    "author": "Patrick Radden Keefe",
+    "isbn": "9780385541328",
+    "category": "History",
+    "published_date": "2018-02-06",
+    "publisher": "Doubleday",
+    "location": "Section H",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "Northern Ireland conflict",
+      "The Troubles",
+      "historical investigation"
+    ]
+  },
+  {
+    "title": "The Rise and Fall of the Third Reich: A History of Nazi Germany",
+    "author": "William L. Shirer",
+    "isbn": "9781451651683",
+    "category": "History",
+    "published_date": "2011-10-18",
+    "publisher": "Simon & Schuster",
+    "location": "Section H",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["Nazi Germany", "World War II", "historical analysis"]
+  },
+  {
+    "title": "The Guns of August",
+    "author": "Barbara W. Tuchman",
+    "isbn": "9780345476092",
+    "category": "History",
+    "published_date": "2004-08-03",
+    "publisher": "Ballantine Books",
+    "location": "Section H",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["World War I", "military history", "historical narrative"]
+  },
+  {
+    "title": "Team of Rivals: The Political Genius of Abraham Lincoln",
+    "author": "Doris Kearns Goodwin",
+    "isbn": "9780143038343",
+    "category": "History",
+    "published_date": "2005-09-06",
+    "publisher": "Penguin Books",
+    "location": "Section H",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "Abraham Lincoln",
+      "American Civil War",
+      "political leadership"
+    ]
+  },
+  {
+    "title": "The Wright Brothers",
+    "author": "David McCullough",
+    "isbn": "9781476728742",
+    "category": "History",
+    "published_date": "2015-05-05",
+    "publisher": "Simon & Schuster",
+    "location": "Section H",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["aviation history", "Orville Wright", "Wilbur Wright"]
+  },
+  {
+    "title": "The Liberation Trilogy",
+    "author": "Rick Atkinson",
+    "isbn": "9780805062904",
+    "category": "History",
+    "published_date": "2002-05-14",
+    "publisher": "Henry Holt and Co.",
+    "location": "Section H",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["World War II", "North Africa campaign", "military history"]
+  },
+  {
+    "title": "The Warmth of Other Suns: The Epic Story of America's Great Migration",
+    "author": "Isabel Wilkerson",
+    "isbn": "9780679763888",
+    "category": "History",
+    "published_date": "2010-08-10",
+    "publisher": "Vintage",
+    "location": "Section H",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "Great Migration",
+      "African American history",
+      "social history"
+    ]
+  },
+  {
+    "title": "The History of the Ancient World: From the Earliest Accounts to the Fall of Rome",
+    "author": "Susan Wise Bauer",
+    "isbn": "9780393059748",
+    "category": "History",
+    "published_date": "2007-05-14",
+    "publisher": "W. W. Norton & Company",
+    "location": "Section H",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["ancient history", "Rome", "historical narrative"]
+  }
+]

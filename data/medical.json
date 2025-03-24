@@ -1,0 +1,110 @@
+[
+  {
+    "title": "When Breath Becomes Air",
+    "author": "Paul Kalanithi",
+    "isbn": "9780812988406",
+    "category": "Medical",
+    "published_date": "2016-01-12",
+    "publisher": "Random House",
+    "location": "Section E",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["memoir", "neurosurgery", "terminal illness"]
+  },
+  {
+    "title": "Being Mortal: Medicine and What Matters in the End",
+    "author": "Atul Gawande",
+    "isbn": "9781250076229",
+    "category": "Medical",
+    "published_date": "2014-10-07",
+    "publisher": "Metropolitan Books",
+    "location": "Section E",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["end-of-life care", "aging", "medical ethics"]
+  },
+  {
+    "title": "The Immortal Life of Henrietta Lacks",
+    "author": "Rebecca Skloot",
+    "isbn": "9781400052189",
+    "category": "Medical",
+    "published_date": "2010-02-02",
+    "publisher": "Crown Publishing Group",
+    "location": "Section E",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["medical ethics", "cell research", "African American history"]
+  },
+  {
+    "title": "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",
+    "author": "Bessel van der Kolk M.D.",
+    "isbn": "9780143127741",
+    "category": "Medical",
+    "published_date": "2014-09-25",
+    "publisher": "Penguin Books",
+    "location": "Section E",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["trauma recovery", "neuroscience", "mental health"]
+  },
+  {
+    "title": "Do No Harm: Stories of Life, Death, and Brain Surgery",
+    "author": "Henry Marsh",
+    "isbn": "9781250077561",
+    "category": "Medical",
+    "published_date": "2014-05-06",
+    "publisher": "Thomas Dunne Books",
+    "location": "Section E",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["neurosurgery", "medical memoir", "patient care"]
+  },
+  {
+    "title": "The Spirit Catches You and You Fall Down: A Hmong Child, Her American Doctors, and the Collision of Two Cultures",
+    "author": "Anne Fadiman",
+    "isbn": "9780374525644",
+    "category": "Medical",
+    "published_date": "1997-09-01",
+    "publisher": "Farrar, Straus and Giroux",
+    "location": "Section E",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["cultural competence", "pediatric care", "Hmong culture"]
+  },
+  {
+    "title": "The Man Who Mistook His Wife for a Hat and Other Clinical Tales",
+    "author": "Oliver Sacks",
+    "isbn": "9780684853949",
+    "category": "Medical",
+    "published_date": "1998-09-01",
+    "publisher": "Touchstone",
+    "location": "Section E",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["neurology", "case studies", "brain disorders"]
+  },
+  {
+    "title": "Hot Lights, Cold Steel: Life, Death, and Sleepless Nights in a Surgeon's First Years",
+    "author": "Michael J. Collins",
+    "isbn": "9780393334767",
+    "category": "Medical",
+    "published_date": "2007-07-17",
+    "publisher": "W.W. Norton & Company",
+    "location": "Section E",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["surgical residency", "medical training", "personal narrative"]
+  },
+  {
+    "title": "Alive: An Alternative Anatomy",
+    "author": "Gabriel Weston",
+    "isbn": "9781783785720",
+    "category": "Medical",
+    "published_date": "2025-03-17",
+    "publisher": "Granta Books",
+    "location": "Section E",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["human anatomy", "medical memoir", "feminist perspective"]
+  }
+]

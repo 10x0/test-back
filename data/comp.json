@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Introduction to C++",
+    "author": "George S. Tselikis",
+    "isbn": "9781003230076",
+    "category": "Computer Science",
+    "published_date": "2022-08-22",
+    "publisher": "CRC Press",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["C++ programming", "computer science"]
+  },
+  {
+    "title": "The Discrete Math Workbook",
+    "author": "Sergei Kurgalin, Sergei Borzunov",
+    "isbn": "9783030422202",
+    "category": "Computer Science",
+    "published_date": "2020-08-12",
+    "publisher": "Springer",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["discrete mathematics", "computer science"]
+  },
+  {
+    "title": "Computer",
+    "author": "Martin Campbell-Kelly, William Aspray, Nathan Ensmenger, Jeffrey R. Yost",
+    "isbn": "9780813345901",
+    "category": "Computer Science",
+    "published_date": "2014-01-01",
+    "publisher": "Westview Press",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["history of computing", "computer science"]
+  },
+  {
+    "title": "An Introduction to Computer Science Using Python 3",
+    "author": "Charles Dierbach",
+    "isbn": "9781937785451",
+    "category": "Computer Science",
+    "published_date": "2013-11-01",
+    "publisher": "Franklin, Beedle & Associates Inc.",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["Python programming", "computer science"]
+  },
+  {
+    "title": "Visual C# 2012 How to Program",
+    "author": "Paul Deitel, Harvey Deitel",
+    "isbn": "9780133379334",
+    "category": "Computer Science",
+    "published_date": "2013-08-01",
+    "publisher": "Pearson",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["C# programming", "computer science"]
+  },
+  {
+    "title": "Java How to Program",
+    "author": "Paul Deitel, Harvey Deitel",
+    "isbn": "9780132575669",
+    "category": "Computer Science",
+    "published_date": "2013-08-01",
+    "publisher": "Pearson",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["Java programming", "computer science"]
+  },
+  {
+    "title": "Essentials of Software Engineering",
+    "author": "Frank Tsui, Orlando Karam, Barbara Bernal",
+    "isbn": "9781449691998",
+    "category": "Computer Science",
+    "published_date": "2011-09-16",
+    "publisher": "Jones & Bartlett Learning",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["software engineering", "computer science"]
+  },
+  {
+    "title": "Head First Design Patterns",
+    "author": "Eric Freeman, Elisabeth Robson",
+    "isbn": "9780596007126",
+    "category": "Computer Science",
+    "published_date": "2004-10-25",
+    "publisher": "O'Reilly Media",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["design patterns", "software development"]
+  },
+  {
+    "title": "Head First Object-Oriented Analysis and Design",
+    "author": "Brett McLaughlin, Gary Pollice, David West",
+    "isbn": "9780596008673",
+    "category": "Computer Science",
+    "published_date": "2006-02-27",
+    "publisher": "O'Reilly Media",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["object-oriented design", "software development"]
+  },
+  {
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+    "isbn": "9780262033848",
+    "category": "Computer Science",
+    "published_date": "2009-07-31",
+    "publisher": "MIT Press",
+    "location": "Section A",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["algorithms", "computer science"]
+  }
+]

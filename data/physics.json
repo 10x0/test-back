@@ -1,0 +1,134 @@
+[
+  {
+    "title": "The Feynman Lectures on Physics",
+    "author": "Richard P. Feynman, Robert B. Leighton, Matthew Sands",
+    "isbn": "9780465023820",
+    "category": "Physics",
+    "published_date": "2011-05-10",
+    "publisher": "Basic Books",
+    "location": "Section B",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "quantum mechanics",
+      "electromagnetism",
+      "statistical mechanics"
+    ]
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "isbn": "9780553380163",
+    "category": "Physics",
+    "published_date": "2005-04-01",
+    "publisher": "Bantam Books",
+    "location": "Section B",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["cosmology", "black holes", "time travel"]
+  },
+  {
+    "title": "Introduction to Electrodynamics",
+    "author": "David J. Griffiths",
+    "isbn": "9781108420419",
+    "category": "Physics",
+    "published_date": "2017-06-28",
+    "publisher": "Cambridge University Press",
+    "location": "Section B",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["electromagnetism", "Maxwell's equations", "vector calculus"]
+  },
+  {
+    "title": "Classical Mechanics",
+    "author": "Herbert Goldstein, Charles Poole, John Safko",
+    "isbn": "9780201657029",
+    "category": "Physics",
+    "published_date": "2002-01-01",
+    "publisher": "Addison-Wesley",
+    "location": "Section B",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "Newtonian mechanics",
+      "Lagrangian mechanics",
+      "Hamiltonian mechanics"
+    ]
+  },
+  {
+    "title": "Modern Quantum Mechanics",
+    "author": "J. J. Sakurai, Jim Napolitano",
+    "isbn": "9781108422413",
+    "category": "Physics",
+    "published_date": "2017-07-10",
+    "publisher": "Cambridge University Press",
+    "location": "Section B",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["quantum theory", "wave-particle duality", "quantum states"]
+  },
+  {
+    "title": "Statistical Mechanics: Algorithms and Computations",
+    "author": "Werner Krauth",
+    "isbn": "9780199227252",
+    "category": "Physics",
+    "published_date": "2006-08-10",
+    "publisher": "Oxford University Press",
+    "location": "Section B",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": [
+      "statistical physics",
+      "Monte Carlo methods",
+      "phase transitions"
+    ]
+  },
+  {
+    "title": "Introduction to Solid State Physics",
+    "author": "Charles Kittel",
+    "isbn": "9780471415268",
+    "category": "Physics",
+    "published_date": "2004-02-06",
+    "publisher": "Wiley",
+    "location": "Section B",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["solid state physics", "crystal structures", "semiconductors"]
+  },
+  {
+    "title": "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",
+    "author": "Brian Greene",
+    "isbn": "9780393338102",
+    "category": "Physics",
+    "published_date": "2011-05-24",
+    "publisher": "W. W. Norton & Company",
+    "location": "Section B",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["string theory", "multiverse", "theoretical physics"]
+  },
+  {
+    "title": "Relativity: The Special and the General Theory",
+    "author": "Albert Einstein",
+    "isbn": "9780452289857",
+    "category": "Physics",
+    "published_date": "2001-05-29",
+    "publisher": "Penguin Classics",
+    "location": "Section B",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["special relativity", "general relativity", "space-time"]
+  },
+  {
+    "title": "The Character of Physical Law",
+    "author": "Richard P. Feynman",
+    "isbn": "9780393318449",
+    "category": "Physics",
+    "published_date": "1965-01-01",
+    "publisher": "M.I.T. Press",
+    "location": "Section B",
+    "copies": 1,
+    "reserved_by": [],
+    "keywords": ["laws of physics", "symmetries", "conservation principles"]
+  }
+]
