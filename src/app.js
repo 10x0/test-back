@@ -9,4 +9,6 @@ app.use(cors({
   allowedHeaders: ['Content-Type', 'Authorization'], // Allow common headers
 }));
 
+app.use(express.json());
+
 export { app };
